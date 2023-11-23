@@ -2,3 +2,4 @@ This is my first git project!
 hot-fix config.
 conflict practice.
 hot fix conflict practice.
+git pull practice.
